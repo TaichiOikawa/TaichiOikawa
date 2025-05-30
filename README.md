@@ -9,6 +9,6 @@
 ### My Skils
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,discord,html,css,js,nodejs,react,vscode,gcp,aws,ubuntu,windows,docker,bash,raspberrypi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,discord,html,css,js,ts,nodejs,react,vite,nextjs,cpp,markdown,vscode,vim,gcp,aws,linux,ubuntu,raspberrypi,bash,powershell,docker,windows,mysql,git,github,pr,ae&perline=7" />
   </a>
 </p>
